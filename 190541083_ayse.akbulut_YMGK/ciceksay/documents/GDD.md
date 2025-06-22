@@ -1,7 +1,7 @@
-# 🌸 Çiç.ek Toplayalım – Game Design Document (GDD)
+# 🌸 Çi.ek Toplayalım – Game Design Document (GDD)
 
 ## 🎮 Oyun Adı
-**Çiç.ek Toplayalım**
+**Çiçek Toplayalım**
 
 ## 📦 Geliştirme Bilgileri
 - **Geliştirici:** Ayse Akbulut 
@@ -22,16 +22,7 @@
 - **Yanlış Sayı Uyarısı:** Sevimli uyarı sesi.
 - **Bölüm Sonu Değerlendirme:** Başarıya göre yıldızlı ya da sesli ödül.
 
-## 🧩 Bölüm Yapısı
 
-| Bölüm | Konu             | Açıklama                                                   |
-|-------|------------------|------------------------------------------------------------|
-| 1     | 1'den 10'a kadar | Çocuklara 1-10 arası sayılar öğretilir.                   |
-| 2     | 10'dan geriye    | Geriye sayma becerisi kazandırılır.                        |
-| 3     | Çift sayılar     | Sadece çift sayıdaki çiçekler toplanır.                    |
-| 4     | Düzine           | 12’li grup sayma kavramı öğretilir.                        |
-| 5     | Deste            | 10’lu grup sayma kavramı öğretilir.                        |
-| 6     | Karışık          | Önceki bölümlerin birleşimi, düzine ve deste dahil edilir. |
 
 ## 🎨 Grafik & Ses Tasarımı
 - **Stil:** Renkli, sade, dikkat dağıtmayan low poly modeller  
@@ -48,7 +39,7 @@
 
 ## ⚙️ Teknik Bilgiler
 - **AR Kit:** Unity AR Foundation + ARCore
-- **Unity Versiyonu:** Unity 2022.3 LTS
+- **Unity Versiyonu:** Unity 2022.3.18f1 LTS
 - **Minimum Android Sürümü:** API 24 (Android 7.0)
 - **Sahne Yapısı:**
   - `MainMenu`
