@@ -1,4 +1,4 @@
-# 🌸 Çi.ek Toplayalım – Game Design Document (GDD)
+# 🌸 Çiçek Toplayalım – Game Design Document (GDD)
 
 ## 🎮 Oyun Adı
 **Çiçek Toplayalım**
