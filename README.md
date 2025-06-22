@@ -28,16 +28,7 @@
 
 ---
 
-##  Öğretici Bölümler
 
-| Bölüm | Konu             | Açıklama                                                   |
-|-------|------------------|------------------------------------------------------------|
-| 1     | 1-10 Arası Sayılar | Sayı tanıma ve ileri sayma                                 |
-| 2     | Geriye Sayma      | Hafıza ve dikkat geliştirme                               |
-| 3     | Çift Sayılar      | Çift sayı tanıma ve seçme                                 |
-| 4     | Düzine            | 12’li grup sayma mantığı                                  |
-| 5     | Deste             | 10’luk grup kavramı                                       |
-| 6     | Karışık           | Önceki bölümlerin karışık tekrarı                         |
 
 ---
 
