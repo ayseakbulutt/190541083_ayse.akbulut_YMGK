@@ -30,7 +30,7 @@
 
 
 
----
+
 
 ##  Tasarım ve Ses
 
